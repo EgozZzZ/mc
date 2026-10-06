@@ -1,0 +1,5 @@
+The gradlew and gradlew.bat files must be downloaded from a Fabric template project.
+Fastest way:
+  1. Go to https://fabricmc.net/develop/template/
+  2. Download the template zip, copy gradlew + gradlew.bat + gradle/ into this folder
+  3. Then run: ./gradlew build
